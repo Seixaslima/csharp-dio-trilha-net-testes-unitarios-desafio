@@ -83,3 +83,4 @@ O projeto está estruturado da seguinte maneira:
 ## Solução
 
 - ValidacoesListaTests corrigida
+- ValidacoesStringTests corrigida
